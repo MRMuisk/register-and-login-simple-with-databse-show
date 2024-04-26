@@ -1,0 +1,1 @@
+para que esto sign up funcione correctamente, es necesario ponerlo dentro de la carpeta www ya sea que estes usando xamp o laravel, y conectarlo a tu base de datos local de lo contrario unca podra establecer conexion
